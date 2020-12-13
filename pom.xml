@@ -9,7 +9,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>splitstopwatch</artifactId>
-	<version>0.3.1</version>
+	<version>0.3.2</version>
 	<name>SplitStopWatch</name>
 	<packaging>jar</packaging>
 	<description>Using this tool you can streamline your debug-output when timing the duration of your methods or tasks.</description>
