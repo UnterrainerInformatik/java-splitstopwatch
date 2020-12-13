@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<parent>
+		<groupId>info.unterrainer.commons</groupId>
+		<artifactId>parent-pom</artifactId>
+		<version>0.1.1</version>
+	</parent>
+
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>splitstopwatch</artifactId>
+	<version>0.3.1</version>
+	<name>SplitStopWatch</name>
+	<packaging>jar</packaging>
+	<description>Using this tool you can streamline your debug-output when timing the duration of your methods or tasks.</description>
+	<url>https://github.com/UnterrainerInformatik/java-splitstopwatch</url>
+
+	<dependencies>
+	</dependencies>
+
+</project>
